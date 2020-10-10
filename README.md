@@ -40,6 +40,6 @@ Now if you type **_git branch_** you can see that booth Main and Branch1 is trac
 ![6GitBranchBoothMainAndBranch1](https://user-images.githubusercontent.com/36561823/95650706-7f08be00-0ae5-11eb-9240-42258ed6f6ef.JPG)
 
 
-If you whant to work with Branch2, do a checkout on that to.
+If you whant to work with Branch2, do a checkout on that too.
 
 
