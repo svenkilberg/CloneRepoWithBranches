@@ -6,6 +6,7 @@ When cloning an repository from GtiHub that contains more branches than main onl
 To fix this do as follows:
 
 The repository on GtiHub with three branches.
+
 ![0 github repo](https://user-images.githubusercontent.com/36561823/95650694-70baa200-0ae5-11eb-90ba-b3c3dd43b978.JPG)
 
 Clone the repository to your local machine.
